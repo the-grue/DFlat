@@ -7,7 +7,7 @@ all : memopad.exe memopad.hlp
 #------------------------------------------------
 # NOTE: Set DRIVE to match where you installed your compiler
 #------------------------------------------------
-DRIVE = d:\bc4
+DRIVE = c:\borlandc
 #-------------------------------------------------------------------
 #  Delete the TESTING macro to eliminate the Reload
 #  Help file selection on the Help menu.
